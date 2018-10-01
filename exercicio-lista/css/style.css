@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    text-align: center;
+    margin: 50px;
+    font-family: "Oswald", Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+img {
+    width: 350px;
+    display: inline-block;
+    text-align: left;
+}
+
+div {
+    display: inline-block;
+    width: 49%;
+    text-align: left;
+}
